@@ -141,6 +141,12 @@ const obj: MoreStuff = {
 };
 ```
 
+## Enums
+
+```typescript
+type anything = {prop: string} | number[] | any
+```
+
 ---
 
 # this is the end
